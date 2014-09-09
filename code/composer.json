@@ -1,0 +1,7 @@
+{
+    "require": {
+        "joomla/database": "*",
+		"ircmaxell/password-compat": "*"
+    }
+}
+
